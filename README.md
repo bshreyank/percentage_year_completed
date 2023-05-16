@@ -1,4 +1,4 @@
-# percentage_year_completed
+# Year Progress
 
 https://bshreyank.github.io/percentage_year_completed/
 
